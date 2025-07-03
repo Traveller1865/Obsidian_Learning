@@ -1,0 +1,3 @@
+- How node “activation” works (e.g., based on real-time wearable data or lab results)
+- How severity scores propagate (e.g., weightings from one node to the next)
+- How to simulate intervention (e.g., a `sleep_improvement_factor` reduces downstream risk)
